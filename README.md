@@ -1,4 +1,1 @@
-datasciencecoursera
-===================
-
-Initial repo for data science Coursera course
+## This is a markdown file
